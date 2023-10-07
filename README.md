@@ -1,4 +1,3 @@
-
 # Content-Management-Tool
 This is a Content Management Tool created as part of the Bharat Intern Project.
 
